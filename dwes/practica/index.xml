@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practicas on El sitio de Hugo de Daniel Radomirov</title>
+    <link>https://ghostmaker92.github.io/dwes/practica/</link>
+    <description>Recent content in Practicas on El sitio de Hugo de Daniel Radomirov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ghostmaker92.github.io/dwes/practica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica 1</title>
+      <link>https://ghostmaker92.github.io/dwes/practica/practica1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghostmaker92.github.io/dwes/practica/practica1/</guid>
+      <description>DESCRIPCION DE LA PRACTICA ¿Qué es php?
+Es un lenguaje muy sencillo de aprender. Visita la web para más información
+DECLARACION DE VARIABLES
+$variable = 5; $text = &amp;#34;Hola&amp;#34;; Tutorial de PHP    Contenido oficial de Victor Robles
+ Canal de Victor Robles  </description>
+    </item>
+    <item>
+      <title>Practica 2</title>
+      <link>https://ghostmaker92.github.io/dwes/practica/practica2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ghostmaker92.github.io/dwes/practica/practica2/</guid>
+      <description>USO DE MERMAID graph LR; A[Jefe] --|Manda| B(Empleados) B -- C{Hacar_Caso} C --|Sí| D[Resultados OK!] C --|No| E[Resultados Castastróficos]  USO DE WARNING WarningImportant!!
+ </description>
+    </item>
+  </channel>
+</rss>
