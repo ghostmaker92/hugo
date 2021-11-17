@@ -1,0 +1,23 @@
+baseURL = "https://ghostmaker92/dwes/"
+languageCode = "en-us"
+title = "El sitio de Hugo de Daniel Radomirov"
+theme = ['relearn']
+[params]    
+themeVariant = "blue"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "/showcase/"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 12
