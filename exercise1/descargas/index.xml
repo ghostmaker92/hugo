@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Descargas on El sitio de Hugo de Daniel Radomirov</title>
-    <link>https://danielRadomirov/dwes/exercise1/descargas/</link>
+    <link>https://ghostmaker92.github.io/DWES/descargas/</link>
     <description>Recent content in Descargas on El sitio de Hugo de Daniel Radomirov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://danielRadomirov/dwes/exercise1/descargas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ghostmaker92.github.io/DWES/descargas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Descargas</title>
-      <link>https://danielRadomirov/dwes/exercise1/descargas/descargas/</link>
+      <link>https://ghostmaker92.github.io/DWES/descargas/descargas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielRadomirov/dwes/exercise1/descargas/descargas/</guid>
+      <guid>https://ghostmaker92.github.io/DWES/descargas/descargas/</guid>
       <description>Archivos para descargar Ficheros Descarga arquitecturas_tecnologias.pdf (265 KB) introduccion_desarrrollo_web.pdf (1 MB) Tarea para DIW01.pdf (53 KB)   </description>
     </item>
   </channel>
