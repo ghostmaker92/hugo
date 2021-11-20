@@ -9,7 +9,7 @@ draft = false
 {{< mermaid align="left" >}}
 graph LR;
 A[Jefe] -->|Manda| B(Empleados)
-B --> C{<strong>Hacar_Caso</strong>}
+B --> C{<strong>Hacer_Caso</strong>}
 C -->|Sí| D[Resultados OK!]
 C -->|No| E[Resultados Castastróficos]
 {{< /mermaid >}}
