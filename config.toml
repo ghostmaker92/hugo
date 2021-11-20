@@ -1,4 +1,4 @@
-baseURL = "https://ghostmaker92.github.io/hugo/"
+baseURL = "https://ghostmaker92.github.io/hugo"
 languageCode = "en-us"
 title = "El sitio de Hugo de Daniel Radomirov"
 theme = ['relearn']
