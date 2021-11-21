@@ -292,6 +292,7 @@ textarea:hover, input[type="email"]:hover, input[type="number"]:hover, input[typ
 }
 #body img, #body .video-container {
     margin: 1.5rem auto;
+    display: inline;
     text-align: center;
 }
 #body img.border, #body .video-container.border {
@@ -335,6 +336,8 @@ textarea:hover, input[type="email"]:hover, input[type="number"]:hover, input[typ
         display: table;
     }
 }
+
+
 #body .nav {
     position: fixed;
     top: 0;

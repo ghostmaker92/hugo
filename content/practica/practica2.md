@@ -14,7 +14,28 @@ C -->|Sí| D[Resultados OK!]
 C -->|No| E[Resultados Castastróficos]
 {{< /mermaid >}}
 
-# USO DE WARNING
-{{% notice warning %}}
-Important!! 
+
+# TABBED VIEWS
+
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
+
+# USO DE INFO
+{{% notice info %}}
+Esto es un aviso de una noticia.
 {{% notice %}}

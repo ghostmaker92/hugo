@@ -5,19 +5,26 @@ theme = ['relearn']
 [params]    
 themeVariant = "blue"
 
+
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+name = "<i class='fas fa-code-branch'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com"
+url = "https://github.com/ghostmaker92"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "/showcase/"
+name = "<i class='fab fa-youtube'></i> Canal Youtube"
+identifier ="youtube"
+url = "https://www.youtube.com/channel/UCv85NiROLKddHa0fBATwTzw"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+name = "<i class='far fa-file'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 12
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-stack-overflow'></i> Stack Overflow"
+url = "https://es.stackoverflow.com"
+weight = 13
